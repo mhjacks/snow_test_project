@@ -1,5 +1,5 @@
 ---
 collections:
-  - src: https://github.com/ansible-collections/servicenow.itsm.git
-    scm: git
+  - name: 'https://github.com/ansible-collections/servicenow.itsm.git'
+    type: git
     version: main
